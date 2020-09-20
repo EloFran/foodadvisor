@@ -10,7 +10,7 @@ Clone FoodAdvisor
 git clone https://github.com/strapi/foodadvisor.git
 ```
 ```
-### Una base de datos de strapi de restaurantes en tu zona ###
+ Una base de datos de strapi de restaurantes en tu zona 
 ```
 ## 2. Start Strapi from the ./api folder
 
